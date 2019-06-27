@@ -1,0 +1,30 @@
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.exe.config
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.exe
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.pdb
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csprojAssemblyReference.cache
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\MainWindow.g.cs
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\App.g.cs
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView_MarkupCompile.cache
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView_MarkupCompile.lref
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\MainWindow.baml
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.g.resources
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab_ListView.Properties.Resources.resources
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csproj.GenerateResource.cache
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csproj.CoreCompileInputs.cache
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.exe
+C:\Users\soblab\source\repos\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.pdb
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.exe.config
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.exe
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\bin\Debug\Lab-ListView.pdb
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csprojAssemblyReference.cache
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\MainWindow.g.cs
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\App.g.cs
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView_MarkupCompile.cache
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView_MarkupCompile.lref
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\MainWindow.baml
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.g.resources
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab_ListView.Properties.Resources.resources
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csproj.GenerateResource.cache
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.csproj.CoreCompileInputs.cache
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.exe
+C:\Users\jason\Downloads\C# entice class\Lab-ListView\Lab-ListView\Lab-ListView\obj\Debug\Lab-ListView.pdb
